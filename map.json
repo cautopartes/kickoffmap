@@ -136,6 +136,12 @@
          "id":4,
          "name":"jitsiMeetingRoom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"MeetingRoom"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":119,
